@@ -18,3 +18,6 @@ All data from these programmes will be publically available as soon as they are 
 * [1248](http://www.stsci.edu/jwst/observing-programs/program-information?id=1248): NIRSPEC 3-5 µm and MIRI 5-28 µm global map of Uranus (3 longitudes).
 * [1249](http://www.stsci.edu/jwst/observing-programs/program-information?id=1249): MIRI 5-28 µm global map of Neptune (3 longitudes).
 
+## Pages on this Site
+
+[JWST Visibility Windows](visibility_windows.md)
