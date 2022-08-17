@@ -10,6 +10,8 @@ These pages are assembled based on contributions from the entire GTO and ERS tea
 
 All data from these programmes will be publically available as soon as they are on the ground.
 
+**Image:  Jupiter from JWST NIRCAM, July 2022, Credit: NASA/ESA/CSA/Judy Schmidt.**
+
 ## Observations in the Giant Planets Programme
 
 * [1246](http://www.stsci.edu/jwst/observing-programs/program-information?id=1246): MIRI 5-12 µm mosaic of Jupiter's Great Red Spot (3 positions).
