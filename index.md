@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+New information repository for Giant Planet observations from James Webb Space Telescope.  Within this directory, you'll find pages describing the observation strategies for all four giant planets, as well as the APT files for the submissions.
 
-You can use the [editor on GitHub](https://github.com/JWSTGiantPlanets/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This work is primarily based on two programmes:
+* Early Release Science observations (ERS, PI: Imke de Pater and Thierry Fouchet)
+* Guaranteed Time observations (GTO, PI: Leigh Fletcher on behalf of Interdisciplinary Scientist Heidi Hammel).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These pages are assembled based on contributions from the entire GTO and ERS teams, along with program coordinators at Space Telescope.
 
-### Markdown
+All data from these programmes will be publically available as soon as they are on the ground.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Observations in the Giant Planets Programme
 
-```markdown
-Syntax highlighted code block
+* [1246](http://www.stsci.edu/jwst/observing-programs/program-information?id=1246): MIRI 5-12 µm mosaic of Jupiter's Great Red Spot (3 positions).
+* [1373](http://www.stsci.edu/jwst/observing-programs/program-information?id=1373): Jupiter's south polar aurora with MIRI and NIRSPEC; mosaic of Great Red Spot with NIRSPEC; atmospheric imaging with NIRCAM; spectroscopic imaging of Io and Ganymede; NIRCAM images of rings and small moons.
+* [1247](http://www.stsci.edu/jwst/observing-programs/program-information?id=1247): MIRI 5-28 µm scan of Saturn's northern summer hemisphere and rings (4 positions); NIRSPEC observations of Saturn's satellites; NIRCAM observations of the rings..
+* [1248](http://www.stsci.edu/jwst/observing-programs/program-information?id=1248): NIRSPEC 3-5 µm and MIRI 5-28 µm global map of Uranus (3 longitudes).
+* [1249](http://www.stsci.edu/jwst/observing-programs/program-information?id=1249): MIRI 5-28 µm global map of Neptune (3 longitudes).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JWSTGiantPlanets/web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
