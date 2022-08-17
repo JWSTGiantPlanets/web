@@ -1,5 +1,3 @@
-# JWST Giant Planets
-
 New information repository for Giant Planet observations from James Webb Space Telescope.  Within this directory, you'll find pages describing the observation strategies for all four giant planets, as well as the APT files for the submissions.
 
 This work is primarily based on two programmes:
