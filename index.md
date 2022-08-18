@@ -25,3 +25,5 @@ All data from these programmes will be publically available as soon as they are 
 [APT Proposal Files](https://github.com/JWSTGiantPlanets/APT-Files)
 
 [Support Observation Timeline](support-observations.md)
+
+[AGU JWST Special Collection](AGU-Collection.md)
