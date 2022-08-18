@@ -27,3 +27,5 @@ All data from these programmes will be publically available as soon as they are 
 [Support Observation Timeline](support-observations.md)
 
 [AGU JWST Special Collection](AGU-Collection.md)
+
+[Giant Planets Publications](publications.md)
