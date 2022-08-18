@@ -11,6 +11,8 @@
 * 2022-11-06:  Juno PJ46, 21:38UT
 * 2022-12-15:  Juno PJ47, 03:23UT
 
+Plus the record of amateur visible-light observations compiled by [S.Mizumoto for ALPO-Japan](http://alpo-j.sakura.ne.jp/Latest/j_Cylindrical_Maps/j_Cylindrical_Maps.htm)
+
 ## Saturn Support Observations
 * 2022-08-14:  VLT/VISIR 7-20 µm imaging; 02:36-03:30UT (PI: Fletcher)
 
