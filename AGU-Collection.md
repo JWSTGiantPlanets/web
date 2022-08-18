@@ -3,13 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/4047392/185348686-00f4f90d-af08-4a90-b597-546c316c98f5.png)
 
-Submission Open: 1 September 2022
+**Submission Open: 1 September 2022**
 
-Submission Deadline: 31 December 2023
+**Submission Deadline: 31 December 2023**
 
 A web-based collection of JWST Solar System papers in [JGR-Planets](https://jgr-planets-submit.agu.org/), [JGR-Space Physics](https://jgr-spacephysics-submit.agu.org/), and [Geophysical Research Letters](https://grl-submit.agu.org/).  The latter is ideal for short-format and high-impact papers.
 
-Special Collection Organizers:
+### Special Collection Organizers:
 * Leigh N. Fletcher, University of Leicester
 * Heidi Hammel, AURA
 * Imke de Pater, UC Berkeley
