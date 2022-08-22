@@ -29,3 +29,5 @@ All data from these programmes will be publically available as soon as they are 
 [AGU JWST Special Collection](AGU-Collection.md)
 
 [Giant Planets Publications](publications.md)
+
+[Press Coverage](press-coverage.md)
