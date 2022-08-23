@@ -4,7 +4,7 @@
 * 2022-07-05:  Juno PJ43, 09:17UT
 * 2022-07-05:  Hubble support for Juno PJ43, two sets at 16:37-17:17UT, 21:22-22:00UT (PI:  Wong)
 * 2022-07-06:  VLT/VISIR 08:19-09:25UT, 5-20 µm imaging (PI: Fletcher)
-* 2022-07-28:  Hubble support for Great Red Spot mosaics, 2022-07-28, 15:27-16:07UT (PI: Wong)
+* 2022-07-28:  Hubble support for Great Red Spot mosaics, 15:27-16:07UT (PI: Wong)
 * 2022-08-02:  NASA IRTF, 5 µm imaging (PI: Bjoraker)
 * 2022-08-08:  VLT/VISIR 08:36-09:40UT, 5-20 µm imaging (PI: Fletcher)
 * 2022-08-16:  IRTF/iSHELL (PI: Bjoraker)
