@@ -7,6 +7,7 @@
 * 2022-07-28:  Hubble support for Great Red Spot mosaics, 2022-07-28, 15:27-16:07UT (PI: Wong)
 * 2022-08-02:  NASA IRTF, 5 µm imaging (PI: Bjoraker)
 * 2022-08-08:  VLT/VISIR 08:36-09:40UT, 5-20 µm imaging (PI: Fletcher)
+* 2022-08-16:  IRTF/iSHELL (PI: Bjoraker)
 * 2022-08-17:  Juno PJ44, 14:45UT
 * 2022-08-17/18:  IRTF/SpeX, 1-5 µm imaging (PI: Orton)
 * 2022-11-06:  Juno PJ46, 21:38UT
