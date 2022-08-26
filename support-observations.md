@@ -1,5 +1,12 @@
 # Timeline of Observations Supporting JWST
 
+## Dates of JWST Observations
+* Jupiter Observations [1246](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1246) and [1373](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1373)
+* Saturn Observations [1247](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1247)
+* Uranus Observations [1248](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1248)
+* Neptune Observations [1249](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1249)
+
+
 ## Jupiter Support Observations
 * 2022-07-05:  Juno PJ43, 09:17UT
 * 2022-07-05:  Hubble support for Juno PJ43, two sets at 16:37-17:17UT, 21:22-22:00UT (PI:  Wong)
