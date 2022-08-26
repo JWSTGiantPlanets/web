@@ -1,10 +1,10 @@
 # Timeline of Observations Supporting JWST
 
 ## Dates of JWST Observations
-* Jupiter Observations [1246](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1246) and [1373](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1373)
-* Saturn Observations [1247](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1247)
-* Uranus Observations [1248](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1248)
-* Neptune Observations [1249](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1249)
+* Jupiter Observations [1246](https://www.stsci.edu/cgi-bin/get-visit-status?id=1246&markupFormat=html&observatory=JWST&pi=1) and [1373](https://www.stsci.edu/cgi-bin/get-visit-status?id=1373&markupFormat=html&observatory=JWST&pi=1)
+* Saturn Observations [1247](https://www.stsci.edu/cgi-bin/get-visit-status?id=1247&markupFormat=html&observatory=JWST&pi=1)
+* Uranus Observations [1248](https://www.stsci.edu/cgi-bin/get-visit-status?id=1248&markupFormat=html&observatory=JWST&pi=1)
+* Neptune Observations [1249](https://www.stsci.edu/cgi-bin/get-visit-status?id=1249&markupFormat=html&observatory=JWST&pi=1)
 
 
 ## Jupiter Support Observations
