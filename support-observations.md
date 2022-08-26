@@ -19,6 +19,8 @@ Plus the record of amateur visible-light observations compiled by [S.Mizumoto fo
 * 2022-08-14:  VLT/VISIR 7-20 µm imaging; 02:36-03:30UT (PI: Fletcher)
 
 ## Uranus Support Observations
-* 2022-08-25:  VLT/VISIR Q-band imaging 08:51UT (PI: Roman)
+* 2022-08-25/26:  VLT/VISIR Q-band imaging (PI: Roman)
 
 ## Neptune Support Observations
+* 2022-07-05:  VLT/VISIR 7.9/18.6 µm imaging (PI: Roman)
+* 2022-08-04/07:  VLT/VISIR Q/N-band imaging (PI: Roman)
