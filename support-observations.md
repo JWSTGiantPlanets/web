@@ -25,7 +25,7 @@
 * 2022-08-02:     NASA IRTF/iSHELL, 5 µm imaging & spectra (PI: Bjoraker)
 * 2022-08-08:     VLT/VISIR 08:36-09:40UT, 5-20 µm imaging (PI: Fletcher)
 * 2022-08-14/15:  **JWST/MIRI Great Red Spot Mosaic 2 [1246]**
-* 2022-08-14:     Keck/NIRSPEC GRS (PI: de Pater), spectra and slit-cam imaging.
+* 2022-08-14:     Keck/NIRSPEC & HIRES GRS (PI: de Pater), spectra and slit-cam imaging.
 * 2022-08-14/15:  IRTF/MIRSI (PI: Orton), 5-18 µm imaging.
 * 2022-08-16:     IRTF/iSHELL imaging and spectra (PI: Bjoraker)
 * 2022-08-17:     Juno PJ44, 14:45UT
