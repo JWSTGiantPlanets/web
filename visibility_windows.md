@@ -10,7 +10,9 @@ Note: use the following sequence to prevent crashing MacOSX with this python too
 1. 2022-06-23 to 2022-08-15
 2. 2022-11-06 to 2022-12-27 
 3. 2023-07-31 to 2023-09-23
-4. 2023-12-13 to 2023-12-31
+4. 2023-12-13 to 2024-02-01
+5. 2024-09-07 to 2024-10-29
+
 
 ![jwst_jupvisibility](https://user-images.githubusercontent.com/4047392/185187323-bcdf77d2-c13d-46ee-a310-4d84a54fd510.png)
 
@@ -20,6 +22,8 @@ Note: use the following sequence to prevent crashing MacOSX with this python too
 2. 2022-09-27 to 2022-11-16
 3. 2023-05-23 to 2023-07-14
 4. 2023-10-09 to 2023-11-28
+5. 2024-06-05 to 2024-07-27
+6. 2024-10-21 to 2024-12-09
 
 ![jwst_satvisibility](https://user-images.githubusercontent.com/4047392/185187518-2d2abe6d-d46a-4d34-8c87-5d08727721ea.png)
 
