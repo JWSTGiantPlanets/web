@@ -53,7 +53,7 @@ Some example citaton commands are provided below:
 
 ```
 @software{23king_pipeline,
-	author = {{King}, Oliver R.T. and {Harkett}, Jake and {Fletcher}, L. N. and {Melin}, H.},
+	author = {King, Oliver R.T. and Harkett, Jake and Fletcher, L. N. and Melin, H.},
 	date-added = {2023-05-25 09:54:04 +0100},
 	date-modified = {2023-05-25 09:55:28 +0100},
 	doi = {10.5281/zenodo.7891560},
