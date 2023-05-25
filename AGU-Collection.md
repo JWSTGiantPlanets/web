@@ -25,3 +25,56 @@ The collection will open for submissions on September 1, 2022 and will close on 
 Please review the [AGU data policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors) and information on [unpublished references](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Text-requirements#:~:text=Every%20reference%20must%20be%20available,described%20in%20the%20Availability%20Statement.), and note that submitted manuscripts may cite other pending (in prep/submitted/in revision) submissions to the collection and that the corresponding authors should upload drafts of any unpublished work they cite under the “Related Manuscript” file type for peer review. We also encourage the use of the preprint server ESSOAr to publish preprints of manuscripts that reference each other, which relieves authors of uploading drafts of unpublished references as part of their submission package. (There is a 1-click transfer option to ESSOAr on our submission site.) 
  
 To submit your manuscript, use the submission site for [JGR-Planets](https://jgr-planets-submit.agu.org/), [JGR-Space Physics](https://jgr-spacephysics-submit.agu.org/), and [Geophysical Research Letters](https://grl-submit.agu.org/), and select the collection’s title from the drop down menu in the Special Section field of the submission form.
+
+### Open Research Section
+AGU requires that data needed to understand, evaluate, and build upon the reported research must be available at the time of peer review and publication. Additionally, authors should make available software that has a significant impact on the research. Data, software, and other research objects (e.g. notebooks) should be made available in repositories that support preservation and reuse. 
+
+Specifically:
+* An Availability Statement in the Open Research section of the paper is required describing where readers can find and access the data and software.
+* A full citation in the References section for all data and software that has a persistent identifier or URL is required. A corresponding in-text citation should be included in the Open Research section.
+* The Reference List entries for the data and software citation (e.g., DOI, URL) should include a bracketed description of their contents. For example, if the Reference List entry corresponds to a dataset, please include [Dataset] in the Reference List entry.
+Guidance on what the Availability Statement and Citation should include along with a checklist, templates and examples can be found at [Data & Software for Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors).
+
+Some example citaton commands are provided below:
+
+```
+@data{MAST_OPAL,
+	author = {{OPAL Archive}},
+	date-added = {2023-05-25 10:01:56 +0100},
+	date-modified = {2023-05-25 10:02:31 +0100},
+	doi = {10.17909/T9G593},
+	title = {{Outer Planets Legacy Program Archive [Data]}},
+	url = {https://archive.stsci.edu/prepds/opal/},
+	year = {2022},
+	bdsk-url-1 = {https://github.com/spacetelescope/jwst},
+	bdsk-url-2 = {https://doi.org/10.5281/zenodo.7038885}}
+```
+
+
+```
+@software{23king_pipeline,
+	author = {{King}, Oliver R.T. and {Harkett}, Jake and {Fletcher}, L. N. and {Melin}, H.},
+	date-added = {2023-05-25 09:54:04 +0100},
+	date-modified = {2023-05-25 09:55:28 +0100},
+	doi = {10.5281/zenodo.7891560},
+	title = {{Custom JWST/MIRI Processing Pipeline [Software]}},
+	url = {https://github.com/JWSTGiantPlanets/pipelines/},
+	year = {2023},
+	bdsk-url-1 = {https://github.com/spacetelescope/jwst},
+	bdsk-url-2 = {https://doi.org/10.5281/zenodo.7038885}}
+```
+
+```
+@software{23bushouse,
+	author = {Bushouse, Howard and Eisenhamer, Jonathan and Dencheva, Nadia and Davies, James and Greenfield, Perry and Morrison, Jane and Hodge, Phil and Simon, Bernie and Grumm, David and Droettboom, Michael and Slavich, Edward and Sosey, Megan and Pauly, Tyler and Miller, Todd and Jedrzejewski, Robert and Hack, Warren and Davis, David and Crawford, Steven and Law, David and Gordon, Karl and Regan, Michael and Cara, Mihai and MacDonald, Ken and Bradley, Larry and Shanahan, Clare and Jamieson, William and Teodoro, Mairan and Williams, Thomas},
+	date-added = {2023-05-25 09:47:49 +0100},
+	date-modified = {2023-05-25 09:55:55 +0100},
+	doi = {10.5281/zenodo.7038885},
+	month = apr,
+	title = {{JWST Calibration Pipeline [Software]}},
+	url = {https://github.com/spacetelescope/jwst},
+	version = {1.10.2},
+	year = {2023},
+	bdsk-url-1 = {https://github.com/spacetelescope/jwst},
+	bdsk-url-2 = {https://doi.org/10.5281/zenodo.7038885}}
+```
