@@ -13,8 +13,8 @@ Note:  the break between JWST cycles is expected to be June 30th to July 1st.
 2. 2022-11-06 to 2022-12-27 (Cycle 1)
 3. 2023-08-01 to 2023-09-23 (Cycle 2)
 4. 2023-12-13 to 2024-02-02 (Cycle 2)
-5. 2024-Sep-07 to 2024-Oct-28 (Cycle 3, Ls=107-115)
-6. 2025-Jan-17 to 2025-Mar-08 (Cycle 3, Ls=122-127)
+5. 2024-Sep-07 to 2024-Oct-28 (Cycle 3, Ls=107-115, Juno PJ65 2024-Sep-20, PJ66 2024-Oct-23)
+6. 2025-Jan-17 to 2025-Mar-08 (Cycle 3, Ls=122-127, Juno PJ69 2025-Jan-30, PJ70 2025-Mar-04)
 
 
 ![jwst_jupvisibility](https://user-images.githubusercontent.com/4047392/185187323-bcdf77d2-c13d-46ee-a310-4d84a54fd510.png)
