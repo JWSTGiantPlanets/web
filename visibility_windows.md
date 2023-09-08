@@ -27,7 +27,7 @@ Note:  the break between JWST cycles is expected to be June 30th to July 1st.
 4. 2023-10-09 to 2023-11-28 (Cycle 2)
 5. 2024-Jun-05 to 2024-Jul-26 (Cycle 2-3, Ls=169-171)
 6. 2024-Oct-21 to 2024-Dec-09 (Cycle 3, Ls=174-175)
-7. 2025-Jun-17 to 2025-Aug-09 (Cycle 3-4, Ls=181-183)
+7. 2025-Jun-17 to 2025-Aug-09 (Cycle 3-4, Ls=181-183 - NB Saturn ring plane crossing from Earth on 2025-Mar-23)
 
 ![jwst_satvisibility](https://user-images.githubusercontent.com/4047392/185187518-2d2abe6d-d46a-4d34-8c87-5d08727721ea.png)
 
